@@ -4,7 +4,7 @@
 - [About](about.md)
 - Getting Started
   - [Installation](installation.md)
-  - [Commands and Permissions](commands-permission.md)
+  - [Commands and Permissions](commands-permissions.md)
 - Customization
   - [Configuration](configuration.md)
   - [Crate](crate.md)
