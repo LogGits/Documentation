@@ -1,7 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/)
-- [About](about.md)
 - Getting Started
   - [Installation](installation.md)
   - [Commands and Permissions](commands-permissions.md)
