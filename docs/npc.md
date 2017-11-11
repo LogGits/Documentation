@@ -10,17 +10,23 @@ Therefore, you will need to have the **Citizen** plugin installed.
 NPC crates are amazing; it is no wonder why you are trying to create one. We have made it really simple for you to create a NPC crate.
 We will show you how to create a NPC and hook it to a crate from scratch.
 
-1. Create the NPC using **/npc create [npc name]**
+1. Create the NPC
 
-2. Find the id of the NPC using **/npc list**
+?> **/npc create [npc name]**
 
-3. Make the NPC open a crate using **/cr addnpc [id] [crate name]**
+2. Find the id of the NPC using 
+
+?> **/npc list**
+
+3. Make the NPC open a crate using 
+
+?> **/cr addnpc [id] [crate name]**
 
 ## How can I remove a NPC?
 
 There is a very simple process that can be utilised to remove a NPC crate.
 
-The command is: **/cr remove npc [npc id]**
+The command is: **/cr removenpc [npc id]**
 
 Example
 
