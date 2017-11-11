@@ -24,7 +24,7 @@ We will show you how to create a NPC and hook it to a crate from scratch.
 
 ## How can I remove a NPC?
 
-There is a very simple process that can be utilised to remove a NPC crate.
+There is a very simple process that can be utilized to remove a NPC crate.
 
 The command is: **/cr removenpc [npc id]**
 
