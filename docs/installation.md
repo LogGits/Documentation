@@ -7,7 +7,7 @@ At this current moment, we do not support Sponge.
 
 **CrateReloaded from [Spigot - Free](https://www.spigotmc.org/resources/mystery-crate-crate-reloaded.861/), 
 [Spigot - Premium](https://www.spigotmc.org/resources/.3663/),
-[Bukkit](http://dev.bukkit.org/bukkit-plugins/http://dev.bukkit.org/bukkit-plugins/crate-reloaded//)**
+[Bukkit](http://dev.bukkit.org/bukkit-plugins/crate-reloaded/)**
 
 ?> CrateReloaded has optional dependencies to improve ease-of-use. 
 
