@@ -24,6 +24,7 @@
 **/cr giveallkey** | cr.giveallkey  | [key name] [amount]            | Gives every player specified amount of keys.
 **/cr set**        | cr.set         | [crate name]                   | Sets a crate at the location the player is looking at.
 **/cr remove**     | cr.remove      | [crate name]                   | Removes a crate at the location the player is looking at.
+**/cr removenpc**  | cr.removenpc   | [npc id]                       | Removes the npc crate.
 **/cr list**       | cr.list        |                                | List available crates.
 **/cr commands**   | cr.commands    |                                | List every command available.
 
