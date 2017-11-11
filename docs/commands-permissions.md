@@ -17,6 +17,7 @@
 
 **Command**        | **Permission** | **Arguments**                  | **Explanation**
 ------------------ | -------------- | ------------------------------ | ---------------------------------------------------------
+**/cr addnpc**     | cr.addnpc      | [npc id] [crate name]          | Sets the npc to a specific crate.
 **/cr give**       | cr.give        | [player] [crate name] [amount] | Gives the player specified amount of crates.
 **/cr giveall**    | cr.giveall     | [crate name] [amount]          | Gives every player specified amount of crates.
 **/cr givekey**    | cr.givekey     | [player] [key name] [amount]   | Gives every player specified amount of keys.
