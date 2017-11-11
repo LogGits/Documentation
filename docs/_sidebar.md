@@ -10,8 +10,7 @@
   - [Effects](effects.md)
   - [Translating](translating.md)
 - Reference
-  - [Particle Effects](particles.md)
-  - [Sounds](sound.md)
+  - [Particle/Sound Effects](particle-sound.md)
   - [Enchantments](enchantments.md) 
   - [Variables](variables.md)
   - [FAQ](faq.md)
